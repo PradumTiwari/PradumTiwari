@@ -1,4 +1,4 @@
-### Hi Pradum This Sdie 👋
+### Hi Pradum This Side 👋
 
 <!--
 **PradumTiwari/PradumTiwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
