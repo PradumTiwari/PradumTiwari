@@ -1,4 +1,4 @@
-### Hi Pradum This Side 👋
+### Hi Pradum Tiwari This Side 👋  
 
 <!--
 **PradumTiwari/PradumTiwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 
   [![Pradum's GitHub stats](https://github-readme-stats.vercel.app/api?username=PradumTiwari&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PradumTiwari&repo=github-readme-stats)](https://github.com/PradumTiwari/github-readme-stats)
 
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PradumTiwari&layout=compact)](https://github.com/PradumTiwari/github-readme-stats)
